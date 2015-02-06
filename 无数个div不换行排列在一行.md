@@ -1,5 +1,5 @@
 ##无数个div不换行排列在一行
-```
+```thml
 <!DOCTYPE html>
 <html lang="en">
 <head>
